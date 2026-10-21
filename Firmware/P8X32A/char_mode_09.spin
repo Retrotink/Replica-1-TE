@@ -1,0 +1,1 @@
+char_mode_08.spin
